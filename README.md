@@ -46,3 +46,8 @@ Finally, open index.html in web browser and the voting can start! (of course tes
 The final results are on `results.html` file (open it in web browser)
 
 I hope this site will help with your events.
+
+
+----
+
+Found a mistake/typing error? Pull requests are appreciated.
